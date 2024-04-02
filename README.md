@@ -6,7 +6,7 @@ The `Dockerfile` and the `docker-compose`-File are based on the repo from [pawam
 
 ### Manual
 
-To build this container run in the folder of the `docker-compose`-file: 
+To build this container run in the folder of the `docker-compose`-file: llll
 
 1. `docker-compose build`
 2. `docker-compose run -d` this runs the containers detachted
